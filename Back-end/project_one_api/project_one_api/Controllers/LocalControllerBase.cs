@@ -1,4 +1,4 @@
-﻿using LocalFramework;
+﻿using POFrameWork;
 using Microsoft.AspNetCore.Mvc;
 
 namespace project_one_api.Controllers
@@ -7,16 +7,16 @@ namespace project_one_api.Controllers
     {
         public IActionResult Result(ResponseStatus responseStatus, string message)
         {
-            return new LocalActionResult(responseStatus, message).ToActionResult();
+            return new POActionResult(responseStatus, message).ToActionResult();
         }
         public IActionResult Result<T>(ResponseStatus responseStatus, T value)
         {
-            return new LocalActionResult<T>(responseStatus, value).ToActionResult();
+            return new POActionResult<T>(responseStatus, value).ToActionResult();
         }
 
         public IActionResult Result<T>(ResponseStatus responseStatus, T value, string message)
         {
-            return new LocalActionResult<T>(responseStatus, value, message).ToActionResult();
+            return new POActionResult<T>(responseStatus, value, message).ToActionResult();
         }
     }
 }

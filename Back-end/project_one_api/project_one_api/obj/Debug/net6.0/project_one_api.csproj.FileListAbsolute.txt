@@ -89,9 +89,9 @@ C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\D
 C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\BLL.dll
 C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\DAL.dll
 C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\DTO.dll
-C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\LocalFramework.dll
 C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\BLL.pdb
-C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\LocalFramework.pdb
 C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\DAL.pdb
 C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\DTO.pdb
 C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\obj\Debug\net6.0\en-US\project_one_api.resources.dll
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\POFrameWork.dll
+C:\Projetos\repositoy-project-one\Back-end\project_one_api\project_one_api\bin\Debug\net6.0\POFrameWork.pdb
