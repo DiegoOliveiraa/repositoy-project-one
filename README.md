@@ -1,6 +1,6 @@
-# EcoConnect - Promovendo um Estilo de Vida Sustentável
+# Project-One - Promovendo um Estilo de Vida Sustentável
 
-O EcoConnect é um aplicativo inovador que une sustentabilidade e tecnologia para incentivar um estilo de vida mais ecológico e consciente. Este repositório contém o código-fonte do aplicativo, permitindo que desenvolvedores contribuam, melhorem e expandam sua funcionalidade.
+O project-one é um aplicativo inovador que une sustentabilidade e tecnologia para incentivar um estilo de vida mais ecológico e consciente. Este repositório contém o código-fonte do aplicativo, permitindo que desenvolvedores contribuam, melhorem e expandam sua funcionalidade.
 
 ## Funcionalidades Principais
 
@@ -25,17 +25,17 @@ Agradecemos suas contribuições para tornar o EcoConnect ainda melhor! Siga os 
 
 Para executar o EcoConnect localmente, siga estas etapas:
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/EcoConnect.git`
-2. Navegue até o diretório do projeto: `cd EcoConnect`
-3. Instale as dependências: `npm install`
-4. Inicie o servidor de desenvolvimento: `npm start`
+1. Clone este repositório:`git clone https://github.com/DiegoOliveiraa/repositoy-project-one.git`
+3. Navegue até o diretório do projeto: `cd Mobile/Ux/Back`
+5. Instale as dependências: `npm install`
+6. Inicie o servidor de desenvolvimento: `npm start`
 
 Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 
 ## Equipe
 
-- João Silva [@joaosilva](https://github.com/joaosilva)
-- Maria Santos [@mariasantos](https://github.com/mariasantos)
+- Diego Oliveira [@DiegoOliveira](https://github.com/DiegoOliveiraa)
+- Rafael Medeiros [@MedeirosRafael](https://github.com/medeiros-rafael)
 
 ## Licença
 
