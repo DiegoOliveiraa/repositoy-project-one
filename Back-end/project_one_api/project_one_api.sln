@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project_one_api", "project_one_api\project_one_api.csproj", "{BCEE1994-A813-4A68-8746-B005F53AB317}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalFramework", "..\..\..\..\Users\rafae\Documents\repositories\app_teams_draw_api\LocalFramework\LocalFramework.csproj", "{09822D09-378E-4163-A9F9-0EEC5257DD08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "..\..\..\..\Users\rafae\Documents\repositories\app_teams_draw_api\DAL\DAL.csproj", "{11892815-0075-4E49-A24E-4DFAF6C39885}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "..\..\..\..\Users\rafae\Documents\repositories\app_teams_draw_api\BLL\BLL.csproj", "{F51054FB-2027-40EE-BAC1-2532C7C9FE68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTO", "..\..\..\..\Users\rafae\Documents\repositories\app_teams_draw_api\DTO\DTO.csproj", "{C879651E-959C-4A41-8937-5517CE0F5DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEE1994-A813-4A68-8746-B005F53AB317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEE1994-A813-4A68-8746-B005F53AB317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEE1994-A813-4A68-8746-B005F53AB317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEE1994-A813-4A68-8746-B005F53AB317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09822D09-378E-4163-A9F9-0EEC5257DD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09822D09-378E-4163-A9F9-0EEC5257DD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09822D09-378E-4163-A9F9-0EEC5257DD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09822D09-378E-4163-A9F9-0EEC5257DD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11892815-0075-4E49-A24E-4DFAF6C39885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11892815-0075-4E49-A24E-4DFAF6C39885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11892815-0075-4E49-A24E-4DFAF6C39885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11892815-0075-4E49-A24E-4DFAF6C39885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F51054FB-2027-40EE-BAC1-2532C7C9FE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51054FB-2027-40EE-BAC1-2532C7C9FE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51054FB-2027-40EE-BAC1-2532C7C9FE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51054FB-2027-40EE-BAC1-2532C7C9FE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C879651E-959C-4A41-8937-5517CE0F5DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C879651E-959C-4A41-8937-5517CE0F5DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C879651E-959C-4A41-8937-5517CE0F5DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C879651E-959C-4A41-8937-5517CE0F5DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E0F02F-0B4F-414A-9194-9474F8E50D9E}
+	EndGlobalSection
+EndGlobal
